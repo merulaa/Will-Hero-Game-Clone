@@ -43,6 +43,6 @@
 ![Alt Image text](/Screenshot/Victory.png?raw=true "Victory")
 
 ## How To play
-don't play 
+weeeeeeiiiiiii
 
 
