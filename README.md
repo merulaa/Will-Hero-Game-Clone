@@ -1,7 +1,7 @@
 # Will-Hero
  ## Details:
   
-  Created by: [Shashank Shekhar Singh (2020119)](https://github.com/g-nerix) and [Vasu Khanna (2020483)](https://github.com/vasukhanna)
+  Created by: Mrinalika Singh
 
   This is a clone of the video game, [Will Hero](https://will-hero.fandom.com/wiki/Will_Hero_Wiki), originally developed by ZPLAY Games.
 
@@ -28,8 +28,6 @@
   - Iterator Design Pattern for all the GameObject class. 
 
 ## Screenshots from the game
-![Alt Image text](/Screenshot/enterName.png?raw=true "Enter Name")
-
 ![Alt Image text](/Screenshot/MainMenu.png?raw=true "Main Menu")
 
 ![Alt Image text](/Screenshot/game1.png?raw=true "screenshot 1")
